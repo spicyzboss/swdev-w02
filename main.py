@@ -1,2 +1,2 @@
 x = 'noice'
-print(f"Hello World {x}")
+print(f"Hello Mars {x}")
